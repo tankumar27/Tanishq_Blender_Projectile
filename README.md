@@ -3,10 +3,6 @@
 ### [Download Projectile](https://github.com/natecraddock/projectile/releases/download/v2.1/projectile.zip)
 *Install the .zip file as an addon*
 
-You can also support me by purchasing the addon on Gumroad (pay-what-you-want): https://gumroad.com/l/projectile
-
-Watch the overview video: https://youtu.be/SXRYoay-rNo
-
 ### Projectile features:
 - **Trajectory Tracing:** Projectile draws trajectories for each object so you can get an idea of how the object will interact with the scene.
 - **Hassle-Free Physics:** Projectile handles all the keyframing so all you have to do is set a speed and click a button! Much faster and more accurate than doing this manually.
@@ -27,5 +23,4 @@ Projectile is located in the Physics tab of the sidebar
 - Choose a **Solver Quality** to increase the physics solver quality.
 - **Draw Trajectories** Has options to draw all, selected, or no trajectories in the 3D View
 
-## Blender 2.7x
-Projectile can be downloaded [here](https://github.com/natecraddock/projectile/tree/blender27x) for Blender 2.7x
+
